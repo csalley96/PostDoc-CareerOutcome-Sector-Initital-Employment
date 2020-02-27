@@ -15,7 +15,7 @@ Data Answer - There is data found within the Next Generation Life Science Coalit
 Industry Answer - The data is able to show us relationships between the department, and provides three cluster groups. 
 # Website Links:
 Data Source: https://provost.jhu.edu/education/graduate-and-professional-education/cngls/postdoctoral-career-outcomes-tabular-format/
-Excel: 
+Excel: https://github.com/csalley96/PostDoc-CareerOutcome-Sector-Initital-Employment/blob/master/Mini%20Project%203%20(CJS).xlsx , 
 # Simple Step-by-Step
 1) Downloaded the data (in pdf form) from the data source link above
 2) Went onto https://tabula.technology/ and extracted the pdf into .cvs format 
