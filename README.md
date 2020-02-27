@@ -17,4 +17,4 @@ Excel:
 # Simple Step-by-Step
 1) Downloaded the data (in pdf form) from the data source link above
 2) Went onto https://tabula.technology/ and extracted the pdf into .cvs format 
-3) I uploaded the .cvs file and used the "Text to Columns" Data Tool to split cells 
+3) I uploaded the .cvs file in excel and used the "Text to Columns" Data Tool to split cells 
