@@ -6,6 +6,7 @@ The repository contains excel files with the original downloaded data and cluste
 # Description of Findings: 
 After evaluating the minimum distance to each of the cluster nodes, it was found that a lot of these were clusted together in what was deemed as cluster 2. Cluster 1 and cluster 3 both only had a handful of departments in these groups. What these findings mean is that many departments in the life sciences have similarities in the job sectors they go to for initial employment. This could be important for current PhDs/PostDocs to know what sector a lot of Johns Hopkins alumni are going to, and if they are in the same cluster group their departments may have some similarites in terms of sector selection that they did not know about. For the institution, for career fairs or seminar series, they put these cluster groups together and tailor these types of networking and exposure to each group and where they typically end up for initial employment. 
 
+Tabular Data:
 ![](Career%20Outcomes.PNG) 
 # Outline: 
 Industry Question - How are departments in the Life Scieces clustered together at Johns Hopkins University based on their sector of initial employment?
