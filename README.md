@@ -10,10 +10,10 @@ Tabular Data with Cluster Groups:
 
 ![](Clusters.PNG) 
 # Outline: 
-Industry Question - How are departments in the Life Scieces clustered together at Johns Hopkins University based on their sector of initial employment?
+Industry Question - How are departments in the Life Scieces clustered together at Johns Hopkins University based on their sector of initial employment for students and the institution to know which sector each departments' students go to?
 Data Question - What data is available and what tools can be used to answer this industry question?
 Data Answer - There is data found within the Next Generation Life Science Coalition database, which can then be extracted from Tabula. A cluster analysis with z-scores can be done to see the relationship we want to find. 
-Industry Answer - The data is able to show us relationships between the departments, and provides three cluster groups. 
+Industry Answer - The data is able to show us relationships between the departments through providing three cluster groups from the dataset.
 # Website Links:
 Data Source: https://provost.jhu.edu/education/graduate-and-professional-education/cngls/postdoctoral-career-outcomes-tabular-format/
 Excel: https://github.com/csalley96/PostDoc-CareerOutcome-Sector-Initital-Employment/blob/master/Mini%20Project%203%20(CJS).xlsx , https://github.com/csalley96/PostDoc-CareerOutcome-Sector-Initital-Employment/blob/master/Original%20Data%20for%20Project%203%20(untouched).xlsx
